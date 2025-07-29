@@ -17,13 +17,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.pipm.visiteurs</string>
+                    <string>com.Giletdavid.Pipm-visite-photos</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>PIPM Visiteurs</string>
+                    <string>Pipm visite photos</string>
                 </dict>
             </dict>
         </array>
