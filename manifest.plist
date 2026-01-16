@@ -19,7 +19,7 @@
                     <key>bundle-identifier</key>
                     <string>com.Giletdavid.Pipm-visite-photos</string>
                     <key>bundle-version</key>
-                    <string>4</string>
+                    <string>2</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
@@ -29,4 +29,5 @@
         </array>
     </dict>
 </plist>
+
 
